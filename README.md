@@ -19,14 +19,13 @@ VTuber Lite adalah sistem interaktif berbasis *Artificial Intelligence* yang mem
 Pastikan Anda sudah menginstal **Python (Disarankan versi 3.11.x)**. 
 
 > **⚠️ PENTING:** Saat proses instalasi Python, pastikan Anda mencentang kotak **"Add Python to PATH"** (atau "Add Python.exe to PATH") di bagian paling bawah agar perintah terminal dapat berjalan!
-
 ### Langkah-langkah
 
 **1. Download Repository ini**
 Anda bisa mengunduhnya dengan cara klik tombol hijau **"Code"** lalu pilih **"Download ZIP"**, atau gunakan perintah terminal (git clone) berikut:
 
 ```bash
-git clone https://github.com/MohammadReyhanAretha/Sistem-Facial-Emotion-Recognition-Realtime-Untuk-Mengendalikan-Avatar-2D-Berbasis-Emosi-Wajah.git
+git clone [https://github.com/MohammadReyhanAretha/Sistem-Facial-Emotion-Recognition-Realtime-Untuk-Mengendalikan-Avatar-2D-Berbasis-Emosi-Wajah.git](https://github.com/MohammadReyhanAretha/Sistem-Facial-Emotion-Recognition-Realtime-Untuk-Mengendalikan-Avatar-2D-Berbasis-Emosi-Wajah.git)
 ```
 
 2. Masuk ke dalam Folder Proyek
@@ -36,8 +35,9 @@ cd Sistem-Facial-Emotion-Recognition-Realtime-Untuk-Mengendalikan-Avatar-2D-Berb
 
 ```
 
-*(Jika Anda mendownload via ZIP, cukup ekstrak foldernya, lalu klik kanan di area kosong di dalam folder `FaceMesh` dan pilih "Open in Terminal").*
-3. Install Library yang Dibutuhkan
+*(Jika Anda mendownload via ZIP, cukup ekstrak foldernya, lalu klik kanan di area kosong di dalam folder FaceMesh dan pilih "Open in Terminal").*
+
+**3. Install Library yang Dibutuhkan**
 Setelah terminal berada di dalam folder FaceMesh, jalankan perintah berikut untuk menginstal seluruh mesin AI yang dibutuhkan:
 ```bash
 pip install -r requirements.txt
