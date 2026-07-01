@@ -29,16 +29,15 @@ Anda bisa mengunduhnya dengan cara klik tombol hijau **"Code"** lalu pilih **"Do
 git clone https://github.com/MohammadReyhanAretha/Sistem-Facial-Emotion-Recognition-Realtime-Untuk-Mengendalikan-Avatar-2D-Berbasis-Emosi-Wajah.git
 ```
 
-2. **Masuk ke dalam Folder Proyek**
-Jika Anda menggunakan `git clone`, Anda harus masuk ke dalam folder utama dan folder `FaceMesh` terlebih dahulu menggunakan perintah ini:
+2. Masuk ke dalam Folder Proyek
+Jika Anda menggunakan git clone, Anda harus masuk ke dalam folder utama dan folder FaceMesh terlebih dahulu menggunakan perintah ini:
 ```bash
 cd Sistem-Facial-Emotion-Recognition-Realtime-Untuk-Mengendalikan-Avatar-2D-Berbasis-Emosi-Wajah/FaceMesh
 
 ```
 
-
 *(Jika Anda mendownload via ZIP, cukup ekstrak foldernya, lalu klik kanan di area kosong di dalam folder `FaceMesh` dan pilih "Open in Terminal").*
-3. **Install *Library* yang Dibutuhkan**
+3. Install Library yang Dibutuhkan
 Setelah terminal berada di dalam folder FaceMesh, jalankan perintah berikut untuk menginstal seluruh mesin AI yang dibutuhkan:
 ```bash
 pip install -r requirements.txt
